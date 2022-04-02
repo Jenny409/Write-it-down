@@ -214,7 +214,7 @@ Electronic record keeping (ERK) is now mandated for patient records. Many small 
 ERK systems require extensive controls. They must be validated for the intended use of the system. There must be controls in place to ensure security, user accountability, and audit trails. Many companies have put Computer Software Validation (CSV) teams in place to ensure that validation of software-driven systems happens effectively. Once a system has gone live, it undergoes audits, and when major changes occur, it undergoes full or partial revalidation.
 
 The bottom line for document management is this: Companies have to determine how their document management system works and then document it. Further, anyone working with documentation within the system needs to understand how the system works. That means system users must have training in the system and not deviate from it.
-
+JSDOFJO[PJ
 ### Standard Formats
 
 Standardized formats also make documents easier to write and process for most companies. These formats can guide writers through the tasks of drafting and revising; they can guard against zealous rewrites by reviewers and can facilitate the approval process. Many companies have stylebooks that
